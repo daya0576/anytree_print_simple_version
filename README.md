@@ -2,7 +2,7 @@
 
 ```python
 >> for x in dfs(root):
-    >> print(x)
+>> print(x)
 A
 ├── B
 │   ├── D
