@@ -13,7 +13,6 @@ def init_tree():
 
     f = Node("F", parent=d)
     g = Node("G", parent=f)
-    h = Node("H", parent=g)
 
     return a
 
